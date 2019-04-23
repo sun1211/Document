@@ -6,10 +6,4 @@ test giot 22222t
 
 test 33333333
 
-
-after merge
-sdg
-sg
-sd
-gsd
-g
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
